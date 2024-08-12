@@ -16,7 +16,7 @@ class QueryUserRequest(Model):
 # Function to fetch data from the weather API
 def fetch_data(location):
     try:
-        WEATHER_API_KEY = "bb105451e60b48b483880333240102"
+        WEATHER_API_KEY = "Paste Your own API Key"
         api_url = f"http://api.weatherapi.com/v1/current.json?key={WEATHER_API_KEY}&q={location}&aqi=yes"
         response = requests.get(api_url)
         data = response.json()
