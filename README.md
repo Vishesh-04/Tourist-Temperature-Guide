@@ -2,7 +2,10 @@
 
 ## Project Description
 
-The Tourist temperature Guide is a Temperature Alert Agent built using Fetch.AI's uAgent library that provides a simple interface for users to input their desired location and temperature range and then displays real-time temperature status updates on the webpage, i.e., sends alert/notification to the user whether the current temperature is suitable for their living conditions or not.
+The Tourist temperature Guide is a Temperature Alert Agent built using Fetch.AI's uAgent library that provides a simple interface for users to input their desired location and temperature range and then displays real-time temperature status updates on the webpage.
+
+## Use Case 
+Tourist Temperature Guide : This agent is designed to help people know about the temperature of the place where they are planning to visit and if the temperature is suitable as per there preference.
 
 ![Tourist temperature Guide](ss.png)
 
