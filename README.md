@@ -64,7 +64,7 @@ The Tourist Temperature Guide is a Temperature Alert Agent built using Fetch.AI'
 
 ## How to Run the Project
 
-### Step 1: Create a Acoount on DeltaV
+### Step 1: Create a Account on DeltaV
 
 ### Step 2: Search for Tourist Temperature Guide
 
